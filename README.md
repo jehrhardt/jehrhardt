@@ -7,6 +7,6 @@ I'm Jan, a cozy developer writing software that let's me sleep well at night �
   - 🔒 [Cozy Auth](https://github.com/jehrhardt/cozyauth) - an easy Passkey authentication
 - 📺 You can join me building in public on [Twitch](https://www.twitch.tv/jehrhardt) and [Youtube](https://www.youtube.com/@jehrhardt)
 - 🗣️ Or follow me on [Blue Sky](https://bsky.app/profile/jehrhardt.bsky.social)
-- 💬 Come into my [Cozy Dev Corner on Discord](https://discord.gg/QaCTXq2Gxm) to get in touch with me and other developers
+- 💬 Also come into my [Cozy Dev Corner on Discord](https://discord.gg/QaCTXq2Gxm) to get in touch with me and other developers
 
 Let's build something cozy, together! 🏠💕
