@@ -1,9 +1,44 @@
-## Hi there 👋
+# Hey there, I'm Jan! 👋
 
-I'm Jan, a cozy developer writing software that let's me sleep well at night 💤.
+I build systems that scale across the galaxy. If it doesn't handle failure gracefully, we're not friends.
 
-- 🔭 I’m currently working on:
-  - ✨ [Cozy Coder](https://github.com/cozycoder-dev/cozycoder) - an open source collaborative space for coding with AI
-- 📺 You can join me building in public on [Youtube](https://youtube.com/@jehrhardt)
+## 📖 My Philosophy Corner
 
-Let's build something cozy, together! 🏠💕
+- **📱 Local-first advocate** - Your code should work offline (read the [manifest](https://www.inkandswitch.com/essay/local-first/))
+- **🌐 Decentralization believer** - ATProto is the future (read the [spec](https://atproto.com))
+- **🔄 Lean mindset** - muda, mura, muri and Kaizen
+
+## 🛠️ My Tech Stack
+
+- **💜 Elixir** - For the joy of the BEAM
+- **🦀 Rust** - For speed and TUIs
+- **🐘 Postgres** - The only database you need
+- **🐧 Linux** - Arch + Neovim btw.
+- **✨ Claude Code** - Best coding agent *today*
+
+## 🏗️ Currently Building
+
+- **✨ [Cozy Coder](https://github.com/cozycoder-dev/cozycoder)** - Your team space for effective coding agents
+- 📺 Catch me coding live on [YouTube](https://youtube.com/@jehrhardt)
+
+```
+    ________________________________
+   / Let's build something cozy      \
+  <  together! 💕                    /
+   \________________________________/
+             |
+             v
+         ┌─────────┐
+         │  ◕   ◕  │
+         │    ▾    │
+         └─────────┘
+             |||
+         ┌─────────┐
+         │ ┌─────┐ │
+         │ │ █ █ │ │
+         │ └─────┘ │
+         └─────────┘
+         /         \
+        /           \
+       🔧           ⚡
+```
