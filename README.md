@@ -18,5 +18,5 @@ I build systems that scale across the galaxy. If it doesn't handle failure grace
 
 ## 🏗️ Currently Building
 
-- **📦 [mcpkg] (https://tangled.sh/@mcpkg.dev/mcpkg)** - a package manager for model context of AI agents
+- **📦 [mcpkg](https://tangled.sh/@mcpkg.dev/mcpkg)** - a package manager for model context of AI agents
 - 📺 Catch me coding live on [YouTube](https://youtube.com/@jehrhardt)
