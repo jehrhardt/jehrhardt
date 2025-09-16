@@ -18,5 +18,5 @@ I build systems that scale across the galaxy. If it doesn't handle failure grace
 
 ## 🏗️ Currently Building
 
-- **📦 [mcpkg](https://github.com/jehrhardt/mcpkg)** - a package manager for model context of AI agents
+- **🧑‍💻 [cozycoder](https://github.com/cozycoder-dev/cozycoder)** - spec driven development for teams
 - 📺 Catch me coding live on [YouTube](https://youtube.com/@jehrhardt)
