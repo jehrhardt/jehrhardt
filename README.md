@@ -10,8 +10,9 @@ I build systems that scale across the galaxy. If it doesn't handle failure grace
 
 ## 🛠️ My Tech Stack
 
-- **🦀 Rust** - For rock solid stuff
-- **🐍 Python** - For the joy of automating everything
+- **💜 Elixir** - For the joy of the BEAM
+- **🦀 Rust** - For speed and TUIs
+- **🐍 Python** - Automate almost everything
 - **🐘 Postgres** - The only database you need
 - **🐧 Linux** - Arch + Neovim btw.
 - **✨ Claude Code** - Best coding agent *today*
