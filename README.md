@@ -13,7 +13,7 @@ I build systems that scale across the galaxy. If it doesn't handle failure grace
 - **🦀 Rust** - For speed and TUIs
 - **🐍 Python** - For the joy of automation
 - **🐘 Postgres** - The only database you need
-- **🐧 Linux** - Arch + Neovim btw. (checkout my [dotfiles](https://github.com/jehrhardt/dotfiles))
+- **🐧 Linux** - Arch + Neovim btw. (checkout my [dotfiles](https://tangled.org/@jehrhardt.dev/dotfiles))
 - **✨ Claude Code** - Best coding agent *today*
 
 ## 🏗️ Currently Building
