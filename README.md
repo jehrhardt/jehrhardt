@@ -10,11 +10,11 @@ I build systems that scale across the galaxy. If it doesn't handle failure grace
 
 ## 🛠️ My Tech Stack
 
-- **🦀 Rust** - For speed and TUIs
 - **🐍 Python** - For the joy of automation (checkout my [tools](https://github.com/jehrhardt/tools))
+- **🦀 Rust** - For speed and TUIs
 - **🐘 Postgres** - The only database you need
 - **🐧 Linux** - Arch + Neovim btw. (checkout my [dotfiles](https://github.com/jehrhardt/dotfiles))
-- **✨ Claude Code** - Best coding agent *today*
+- **✨ OpenCode** - For spec-driven development + 90% AI writen code
 
 ## 🏗️ Currently Building
 
