@@ -18,5 +18,5 @@ I build systems that scale across the galaxy. If it doesn't handle failure grace
 
 ## 🏗️ Currently Building
 
-- **🧑‍💻 [mcpkg](https://github.com/jehrhardt/mcpkg)** - a package manager for your model context
+- **🧑‍💻 [twig](https://github.com/jehrhardt/twig)** - a package manager for your model context
 - 📺 Catch me coding live on [YouTube](https://youtube.com/@jehrhardt)
