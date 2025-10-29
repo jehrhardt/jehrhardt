@@ -18,5 +18,5 @@ I build systems that scale across the galaxy. If it doesn't handle failure grace
 
 ## 🏗️ Currently Building
 
-- **🧑‍💻 [twig](https://github.com/jehrhardt/twig)** - Empower your coding agent with knowledge
+- **🧑‍💻 [twig](https://github.com/twig-hq/twig)** - Empower your coding agent with knowledge
 - 📺 Catch me coding live on [YouTube](https://youtube.com/@jehrhardt)
