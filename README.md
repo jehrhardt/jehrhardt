@@ -10,13 +10,9 @@ I build systems that scale across the galaxy. If it doesn't handle failure grace
 
 ## 🛠️ My Tech Stack
 
-- **🐍 Python** - For the joy of experimenting (checkout my [tools](https://github.com/jehrhardt/tools))
+- **🐍 Python** - For the joy of experimenting
 - **🦀 Rust** - For speed and TUIs
 - **🐘 Postgres** - The only database you need
-- **🐧 Linux** - Arch + Neovim btw. (checkout my [dotfiles](https://tangled.org/jehrhardt.dev/dotfiles))
-- **✨ OpenCode** - For spec-driven development + 90% AI writen code
+- **🐧 Linux** - Arch btw.
+- **✨ Pi** - For coding and managing my laptop
 
-## 🏗️ Currently Building
-
-- **🧑‍💻 [twig](https://github.com/twig-hq/twig)** - Empower your coding agent with knowledge
-- 📺 Catch me coding live on [YouTube](https://youtube.com/@jehrhardt)
